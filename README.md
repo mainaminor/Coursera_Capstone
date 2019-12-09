@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Data science capstone
+This repository contains the work completed and supporting documentation for the award of the IBM Data Science Professional Certificate.
