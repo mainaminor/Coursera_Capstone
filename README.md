@@ -1,5 +1,5 @@
 # Coursera_Capstone
-Unsupervised learning model for clustering neighborhoods based on common venues & business types
+Machine Learning model for clustering neighborhoods based on common venues & business types
 
 ## Sample screenshots
 
