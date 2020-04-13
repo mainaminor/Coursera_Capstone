@@ -1,5 +1,5 @@
 # Coursera_Capstone
-Answer to the project element of IBM's online data science programme
+Unsupervised learning model for clustering neighborhoods based on common venues & business types
 
 ![pic2](screenshots/pic2.png)
 
