@@ -8,7 +8,7 @@ Unsupervised learning model for clustering neighborhoods based on common venues 
 ![pic2](screenshots/pic2.png)
 
 
-**Snapshot of commonly seen venues & business types in two clusters**
+**Snapshot of commonly seen venues & business types in the first three clusters**
 
 ![pic1](screenshots/pic1.png)
 
