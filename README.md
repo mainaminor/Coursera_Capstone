@@ -7,7 +7,7 @@ Machine Learning model for clustering neighborhoods based on common venues & bus
 
 ![pic2](screenshots/pic2.png)
 
-
+<br></br>
 **Snapshot of commonly seen venues & business types in the first three clusters**
 
 ![pic1](screenshots/pic1.png)
